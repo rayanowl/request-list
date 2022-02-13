@@ -25,7 +25,7 @@ Therefore, the PATCH command is used for update.
 -Download Postman-
 https://www.postman.com/downloads/
 
--Download Json-server-
+-Download Json Server-
 1. Open Command Promt
 2. Write cd Desktop
 3. Create a folder; To Do: mkdir foldername
