@@ -1,6 +1,6 @@
 # REQUEST LIST / COMMANDS
 
-Request List for Students &amp; Projects
+Create request for students &amp; projects
 
 Visual Studio Code and Postman are used.
 
