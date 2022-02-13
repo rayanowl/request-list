@@ -31,10 +31,10 @@ https://www.postman.com/downloads/
 7. Write code . and add list to your file.
 
 -Create Request on Postman-
-8. Write json-server --watch db.json and your localhost will be out.
-9. Create a Collection
-10. Create Requests (GET,PUT,PATCH,DELETE,POST)
-11. Enter your local host. 
+ 1. Write json-server --watch db.json and your localhost will be out.
+ 2. Create a Collection
+ 3. Create Requests (GET,PUT,PATCH,DELETE,POST)
+ 4. Enter your local host. 
  **Get: Gets all of your list.
  *Post: Add a new item to list. For example: write /users and send. A new item with id will be created.
  *Put: It will update the items you selected, but data will be lost. 
