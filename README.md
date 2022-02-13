@@ -1,8 +1,10 @@
+
 # REQUEST LIST / COMMANDS
 
 Create request for students &amp; projects
 
 Visual Studio Code and Postman are used.
+
 
 # "Explanation"
 
@@ -11,10 +13,12 @@ Filtering was applied for students and projects,
 New items were created, 
 A specified feature was deleted and updated.
 
+
 # "Notice"
 
 *When the PUT command is used, it has been observed that all the remaining features are deleted, except for that item. 
 Therefore, the PATCH command is used for update.
+
 
 # "Stages"
 
