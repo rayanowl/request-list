@@ -22,13 +22,13 @@ Therefore, the PATCH command is used for update.
 https://www.postman.com/downloads/
 
 -Download Json-server-
-*1. Open Command Promt
-*2. Write cd Desktop
-*3. Create a folder; To Do: mkdir foldername
-*4. Write cd foldername
-*5. Write mkdir db.json
-*6. And write npm i -g json-server
-*7. Write code . and add list to your file.
+1. Open Command Promt
+2. Write cd Desktop
+3. Create a folder; To Do: mkdir foldername
+4. Write cd foldername
+5. Write mkdir db.json
+6. And write npm i -g json-server
+7. Write code . and add list to your file.
 
 -Create Request on Postman-
 8. Write json-server --watch db.json and your localhost will be out.
