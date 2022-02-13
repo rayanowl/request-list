@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Suay Akbudak",
+      "age": 23,
+      "school": "BAU"
+    },
+    {
+      "id": 2,
+      "name": "Selin Demir",
+      "age": 24,
+      "school": "ITU"
+    },
+    {
+      "id": 3,
+      "name": "Batuhan Özbek",
+      "age": 23,
+      "school": "BAU"
+    },
+    {
+      "id": 4,
+      "name": "Sude Öztürk",
+      "age": 20,
+      "school": "BAU"
+    },
+    {
+      "id": 5,
+      "name": "Berkay Koç",
+      "age": 20,
+      "school": "ODTU"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Java",
+      "description": "Restaurant Management"
+    },
+    {
+      "id": 2,
+      "title": "C#",
+      "description": "Food Safety Portal"
+    },
+    {
+      "id": 3,
+      "title": "SQL",
+      "description": "Library Management"
+    },
+    {
+      "id": 4,
+      "title": "C++",
+      "description": "Interface Design"
+    },
+    {
+      "id": 5,
+      "title": "Flutter",
+      "description": "Mobile App"
+    }
+  ]
+}
