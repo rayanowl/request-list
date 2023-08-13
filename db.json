@@ -2,31 +2,31 @@
   "users": [
     {
       "id": 1,
-      "name": "Suay Akbudak",
+      "name": "Rayan",
       "age": 23,
       "school": "BAU"
     },
     {
       "id": 2,
-      "name": "Selin Demir",
+      "name": "Selin",
       "age": 24,
       "school": "ITU"
     },
     {
       "id": 3,
-      "name": "Batuhan Özbek",
+      "name": "Batuhan",
       "age": 23,
       "school": "BAU"
     },
     {
       "id": 4,
-      "name": "Sude Öztürk",
+      "name": "Sude",
       "age": 20,
       "school": "BAU"
     },
     {
       "id": 5,
-      "name": "Berkay Koç",
+      "name": "Berkay",
       "age": 20,
       "school": "ODTU"
     }
